@@ -23,4 +23,4 @@ working_dir/
 ```
 
 ## Auteur
-Bessel Vestel Patient AÏNA — Etudiant en 5e année à l'ENSIL-ENSCI, Université de Limoges
+Bessel AÏNA — Etudiant en 5e année à l'ENSIL-ENSCI, Université de Limoges
